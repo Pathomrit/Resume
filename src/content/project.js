@@ -7,6 +7,7 @@ import pic from "../assets/image.png";
 import shopping from "../assets/shopping.png";
 import todolist from "../assets/todolist.png";
 import resume from "../assets/resume.png";
+import cake from "../assets/cake&bakery.png";
 export const data = [
   {
     date: "2024-present",
@@ -94,5 +95,21 @@ export const data = [
       ["Firebase", "sqllite"],
     ],
     picture: pic,
+  },
+  {
+    date: "2022",
+    title: "Cake&Bakery",
+    link: "https://projectcaptain.vercel.app/#/",
+    material: [
+      {
+        type: faGithub,
+        link: "https://github.com/Pathomrit/projectcaptain",
+      },
+    ],
+    description: [
+      "A simple and minimalist web for developers built with Flutter.",
+    ],
+    skill: [["Dart", "Flutter"]],
+    picture: cake,
   },
 ];
