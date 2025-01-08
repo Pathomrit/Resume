@@ -11,11 +11,11 @@ export const data = [
   {
     date: "2024-present",
     title: "Resume",
-    link: "https://ecom2024-web-five.vercel.app/",
+    link: "https://resume-jade-tau.vercel.app/",
     material: [
       {
         type: faGithub,
-        link: "https://github.com/Pathomrit/ecom2024-web",
+        link: "https://github.com/Pathomrit/Resume",
       },
     ],
     description: [
